@@ -18,7 +18,7 @@ Estou focado em aprofundar meus conhecimentos práticos e documentar minha jorna
 
 Aqui você encontra minhas análises detalhadas de laboratórios de segurança e pequenos projetos que desenvolvi.
 
--   **[Write-up] Bypass de WAF em cenário de XSS Refletido ** - [(leia aqui)](LINK_PARA_O_SEU_WRITEUP)
+-   **[Write-up] Bypass de WAF em cenário de XSS Refletido ** - [(leia aqui)](https://github.com/PDrocco/Cybersecurity-Writeups/blob/main/Portswigger-Reflected-XSS-WAF-Bypass.md)
 -   *(Em breve mais projetos...)*
 
 ---
