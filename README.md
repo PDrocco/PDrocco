@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Costa 👋
+# Olá, eu sou o Pedro Costa 
 
 Sou um profissional em formação na área de Cibersegurança, atualmente cursando Engenharia de Software e com um forte interesse em Segurança Ofensiva (Pentest).
 
